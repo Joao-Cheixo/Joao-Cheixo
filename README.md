@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on some big project
 - 📫 How to reach me jonas4777@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Joao-Cheixo=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Joao-Cheixo)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/Joao-Cheixo=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/Joao-Cheixo=willianrod](https://github.com/anuraghazra/github-readme-stats)
 
 name: Waka Readme
 
