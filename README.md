@@ -7,6 +7,3 @@
 
 [![Joao-Cheixo's github stats](https://github-readme-stats.vercel.app/api?username=Joao-Cheixo&theme=radical)](https://github.com/Joao-Cheixo)
 
-- 👋 Hi, I’m @Joao-Cheixo 
-- 🌱 I’m currently learning python in a Bioinformatics course
-- 📫 How to reach me jonas4777@gmail.com
